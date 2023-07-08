@@ -1,0 +1,2 @@
+NPC Happiness Viewer lets you view NPC happiness data in-game
+just talk to an npc and press the hotkey
