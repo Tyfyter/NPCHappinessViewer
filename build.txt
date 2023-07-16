@@ -1,3 +1,4 @@
 displayName = NPC Happiness Viewer
 author = Tyfyter2002
-version = 0.1
+version = 0.2
+homepage = https://tyfyter.github.io/
